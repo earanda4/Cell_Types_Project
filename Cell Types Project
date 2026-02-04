@@ -15,9 +15,8 @@
     "## Team Member Names & Contributions\n",
     "*Feel free to name your team, but please also include your real names and IDs here. Please specify who in your group worked on which parts of the project.*\n",
     "\n",
-    "- **Enrique Aranda | A17484190**: \n",
-    "- **Ant Man**: Cleverly sneaking into small spaces\n",
-    "- **Hulk**: AKA The \"Muscle\""
+    "- Enrique Aranda : \n",
+    "- Brandon Melendez-Rodriguez : "
    ]
   },
   {
@@ -163,9 +162,9 @@
  ],
  "metadata": {
   "kernelspec": {
-   "display_name": "allensdk",
+   "display_name": "Python 3 (ipykernel)",
    "language": "python",
-   "name": "allensdk"
+   "name": "python3"
   },
   "language_info": {
    "codemirror_mode": {
@@ -177,7 +176,7 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.12.7"
+   "version": "3.11.9"
   }
  },
  "nbformat": 4,
